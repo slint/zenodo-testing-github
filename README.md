@@ -6,4 +6,4 @@
 
 ### Testing releases
 
-- Rel 1
+- Rel 1.6.1
