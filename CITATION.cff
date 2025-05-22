@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ioannidis"
+  given-names: "Alex"
+  orcid: "https://orcid.org/0000-0002-5082-6404"
+title: "slint/zenodo-testing-github"
+  preferred-citation:
+  authors:
+    - family-names: Ioannidis
+      given-names: Alex
+  title: "Software paper about My Research Software"
+  type: article
+  year: 2021
+version: 1.0.0
+date-released: 2025-05-22
+url: "https://github.com/slint/zenodo-testing-github"
