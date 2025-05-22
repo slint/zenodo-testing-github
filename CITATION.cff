@@ -5,11 +5,12 @@ authors:
   given-names: "Alex"
   orcid: "https://orcid.org/0000-0002-5082-6404"
 title: "slint/zenodo-testing-github"
-  preferred-citation:
+preferred-citation:
   authors:
     - family-names: Ioannidis
       given-names: Alex
   title: "Software paper about My Research Software"
+  doi: 10.1234/foobar
   type: article
   year: 2021
 version: 1.0.0
