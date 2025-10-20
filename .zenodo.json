@@ -67,7 +67,7 @@
     "keywords": ["Tsunami", "Shallow Water Equations", "Numerical Simulation", "Hydrodynamics", "Inundation Modeling"],
 
     "access_right": "open",
-    "license": "GNU General Public License v2.0",
+    "license": "gpl-2.0",
     "grants": [{"id": "823844"}]
 }
  
